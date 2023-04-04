@@ -1,6 +1,5 @@
-# <h><center><b>Optical Flow </b></center></h>
+# <h><center><b>Optical Flow: Explore different type of optical flow Methods</b></center></h>
 
-# ***Explore different type of optical flow***
 
 # **What is Optical flow and Why?**
 
@@ -36,3 +35,9 @@ Application: Optical flow was used by robotics researchers in many areas such as
 # **Optical flow picture in lucas kanade and horn output**
 
 ![lucas and horn output flow](https://user-images.githubusercontent.com/75832198/229847217-6faadde7-854e-45f9-97c0-cf2d62c808c1.png)
+
+
+Reference:
+
+1. The first principle of computer vision courses (coursera)
+2. opencv doc
